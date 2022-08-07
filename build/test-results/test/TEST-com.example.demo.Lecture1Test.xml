@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.Lecture1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-07T11:17:47" hostname="1101783M01" time="0.028">
+  <properties/>
+  <testcase name="lecture1Test()" classname="com.example.demo.Lecture1Test" time="0.028"/>
+  <system-out><![CDATA[LeadMento
+COMMENTO
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
